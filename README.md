@@ -851,6 +851,7 @@ must stay behind explicit user confirmation and tight limits.
 - [PayRam MCP](https://github.com/PayRam/payram-mcp) - Self-hosted crypto payments, hosted endpoints, and agent payment workflows.
 - [GOAT SDK](https://github.com/goat-sdk/goat) - Large agentic finance toolkit with a Model Context Protocol adapter, 200+ on-chain tools, wallet integrations, payments, DeFi, prediction markets, tokenization, and framework adapters across TypeScript and Python.
 - [Hashnet MCP Server](https://github.com/hashgraph-online/hashnet-mcp-js) - Hashgraph Online MCP for discovery, chat, registration, workflows, and Hedera agent interactions.
+- [Voicescape MCP](https://voicescape.vercel.app/api/mcp) - MCP Registry-listed remote MCP (`io.github.VoiceScapee/voicescape`) for AI-agent on-chain identity and tipping on Hedera: 21 tools for blockpage claims, HBAR tipping with atomic 98/2 splits, mirror-node tip verification, and interactive MCP Apps widgets.
 - [WAIaaS](https://github.com/minhoyoo-iotrust/WAIaaS) - Self-hosted EVM and Solana wallet daemon with MCP, policy controls, spending limits, approval tiers, and kill-switch controls for agent transactions.
 - [Agenti](https://github.com/nirholas/agenti) - Wallet-enabled AI agent framework for EVM, Solana, x402 payments, and MCP-compatible agents.
 - [MCP Crypto Wallet EVM](https://github.com/dcSpark/mcp-cryptowallet-evm) - EVM crypto wallet MCP from dcSpark.
